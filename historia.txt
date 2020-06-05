@@ -2,4 +2,8 @@ Esta es la historia de Carolina
 
 Carolina tiene 26 años
 
-Hoy hablaremos de su historia 
+Hoy hablaremos de su historia
+
+Estamos aprendiendo como usar git
+
+Para mejorar mi nivel y seguir estudiando programaciòn 
