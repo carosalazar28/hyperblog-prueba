@@ -6,4 +6,4 @@ Hoy hablaremos de su historia
 
 Estamos aprendiendo como usar git
 
-Para mejorar mi nivel y seguir estudiando programaciòn 
+Para mejorar mi nivel y seguir estudiando programación 
