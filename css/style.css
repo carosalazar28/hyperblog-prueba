@@ -32,3 +32,15 @@ body {
   font-weight: 20px;
   padding: 0.5em;
 }
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  background-color: gray;
+  font-weight: 20px;
+  font-weight: bold;
+  text-align: center;
+}
