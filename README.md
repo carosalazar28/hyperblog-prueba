@@ -5,6 +5,7 @@ Un blog increible para el [curso de Git y Github](http://https://platzi.com/@csa
 >Carolina
 
 Hecho junto con el equipo de Platzi para el curso de Git y Github
+Incluye ejemplos en windows linux y mac
 
 #En este curso vemos de todo:
 - Todos los comandos de Git
